@@ -1,0 +1,18 @@
+<snippet>
+	<content>
+		<![CDATA[
+---
+title: 
+date: 
+tags: java 经验分享 
+keywords: 维度 kylin 大数据 java java jar命令 彭双宝
+categories: 
+---
+]]>
+	
+</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mdt</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,8 @@
+[
+    {
+        "command": "add_info",
+        "keys": [
+            "ctrl+alt+,"
+        ]
+    }
+]
